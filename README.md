@@ -20,7 +20,9 @@ V0 PLA-export.bin - My Slicer settings.
 V0 TPU-export.bin - Generic TPU settings.
 
 V0 TPE-Inland     - Settings for Inland TPE (Shore Hardness 87A)
+
 V0 TPU-NinjaFlex  - Settings for Ninjaflex TPU (Shore Hardness 85A)
+
 V0 TPU-SainSmart  - Settings for Sainsmart TPU (Shore Hardness 95A)
 
 PLease note that you may need to add some GCODE sections for the slicing profiles to work. Refer to my printer configuration file.
