@@ -6,7 +6,10 @@ https://www.youtube.com/playlist?list=PLpQnpsv1trbT-WkHpvdFfpSlhTUunMQRa
 
 Files in this repository:
 
-voron01-0.5-printer.cfg - my printer configuration file. Please note, this is specific to my machine, which has an AC Bed, original V0 LDO motors, .1 LDO motor, but otherwise is a Voron 0.1. It also contains include files for DisplayEncoder.cfg, DisplayMenu.cfg (both used for the Voron0 Display Screen) and klipper_Expander.cfg (used for the Klipper Expander). 
+voron01-0.5-printer.cfg - my printer configuration file.
+
+Please note, this printer.cfg is specific to my machine, which has an AC Bed, original V0 LDO motors, .1 LDO motor, but otherwise is a Voron 0.1. It also contains include files for DisplayEncoder.cfg, DisplayMenu.cfg (both used for the Voron0 Display Screen) and klipper_Expander.cfg (used for the Klipper Expander). 
+
 
 Files for Ideamaker Slicer (which can be imported)
 
