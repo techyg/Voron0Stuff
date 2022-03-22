@@ -1,17 +1,29 @@
 # Voron0Stuff
 
-Some files that you may find helpful- following along with my Voron 0.1 Series (Greg's Maker Corner).
+Welome to my Voron Stuff Repository! This is where I dump files to help share what I am working on with the Voron community. You probably found this link via my Youtube Channel (Greg's Maker Corner) or through Discord.
 
-https://www.youtube.com/playlist?list=PLpQnpsv1trbT-WkHpvdFfpSlhTUunMQRa
+Check out my channel by going here:
+http://www.gregsmakercorner.com
 
-Files in this repository:
+Klipper Configuration Files:
 
-voron01-0.5-printer.cfg - my printer configuration file.
+** Note: Klipper often has new releases with breaking changes. I try to keep these files updated, but please beware that they may not work with the latest version of Klipper. This is especially true of the printer.cfg files which seem to break more frequently. 
 
-Please note, this printer.cfg is specific to my machine, which has an AC Bed, original V0 LDO motors, .1 LDO motor, but otherwise is a Voron 0.1. It also contains include files for DisplayEncoder.cfg, DisplayMenu.cfg (both used for the Voron0 Display Screen) and klipper_Expander.cfg (used for the Klipper Expander). 
+DisplayEncoder.cfg - for use with the Voron 0 display. Make sure you include this file from your printer.cfg using [include DisplayEncoder.cfg]
 
+DisplayMenu.cfg - this specifies all the custom menu options. Make sure you include this file from your printer.cfg using [include DisplayMenu.cfg]
 
-Files for Ideamaker Slicer (which can be imported)
+klipper_Expander.cfg - the config file that I use for my klipper expander. Must be included from printer.cfg file.
+
+ldokit-voron01.cfg - my printer.cfg file for the LDO Kit v0.1.
+
+voron01-0.5-printer.cfg - printer.cfg file for my original v0.1, which uses an AC Bed and the original v0.0 motors.
+
+Slicer Files - Prusa Slicer
+
+Prusa*.* - Slicer profiles I use for ASA, TPU, ABS
+
+Slicer Files - Idea Maker
 
 Voron 0.1-export.printer  - my voron 0 printer configuration file
 
@@ -29,19 +41,6 @@ V0 TPU-SainSmart  - Settings for Sainsmart TPU (Shore Hardness 95A)
 
 Please note that you may need to add some GCODE sections for the slicing profiles to work. Refer to my printer configuration file.
 
-Configuration Files:
-
-** Note: Klipper often has new releases with breaking changes. I try to keep these files updated, but please beware that they may not work with the latest version of Klipper. This is especially true of the printer.cfg files which seem to break more frequently. 
-
-DisplayEncoder.cfg - for use with the Voron 0 display. Make sure you include this file from your printer.cfg using [include DisplayEncoder.cfg]
-
-DisplayMenu.cfg - this specifies all the custom menu options. Make sure you include this file from your printer.cfg using [include DisplayMenu.cfg]
-
-klipper_Expander.cfg - the config file that I use for my klipper expander. Must be included from printer.cfg file.
-
-ldokit-voron01.cfg - my printer.cfg file for the LDO Kit v0.1.
-
-voron01-0.5-printer.cfg - printer.cfg file for my original v0.1, which uses an AC Bed and the original v0.0 motors.
 
 Other files:
 
