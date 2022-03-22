@@ -27,4 +27,23 @@ V0 TPU-NinjaFlex  - Settings for Ninjaflex TPU (Shore Hardness 85A)
 
 V0 TPU-SainSmart  - Settings for Sainsmart TPU (Shore Hardness 95A)
 
-PLease note that you may need to add some GCODE sections for the slicing profiles to work. Refer to my printer configuration file.
+Please note that you may need to add some GCODE sections for the slicing profiles to work. Refer to my printer configuration file.
+
+Configuration Files:
+
+** Note: Klipper often has new releases with breaking changes. I try to keep these files updated, but please beware that they may not work with the latest version of Klipper. This is especially true of the printer.cfg files which seem to break more frequently. 
+
+DisplayEncoder.cfg - for use with the Voron 0 display. Make sure you include this file from your printer.cfg using [include DisplayEncoder.cfg]
+
+DisplayMenu.cfg - this specifies all the custom menu options. Make sure you include this file from your printer.cfg using [include DisplayMenu.cfg]
+
+klipper_Expander.cfg - the config file that I use for my klipper expander. Must be included from printer.cfg file.
+
+ldokit-voron01.cfg - my printer.cfg file for the LDO Kit v0.1.
+
+voron01-0.5-printer.cfg - printer.cfg file for my original v0.1, which uses an AC Bed and the original v0.0 motors.
+
+Other files:
+LGXLiteHartKPCBMountv2.stl - Hartk PCB toolhead mount for the Stealthburner with LGX Lite. You will need to m3x8's (recommend using washers) and also two heat inserts for the PCB. 
+
+LGXLiteHartKPCBMountv2.scad - Open SCAD source code file, you can customize the PCB mount fairly easily with this and Open SCAD.
