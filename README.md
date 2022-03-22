@@ -44,6 +44,7 @@ ldokit-voron01.cfg - my printer.cfg file for the LDO Kit v0.1.
 voron01-0.5-printer.cfg - printer.cfg file for my original v0.1, which uses an AC Bed and the original v0.0 motors.
 
 Other files:
+
 LGXLiteHartKPCBMountv2.stl - Hartk PCB toolhead mount for the Stealthburner with LGX Lite. You will need to m3x8's (recommend using washers) and also two heat inserts for the PCB. 
 
 LGXLiteHartKPCBMountv2.scad - Open SCAD source code file, you can customize the PCB mount fairly easily with this and Open SCAD.
