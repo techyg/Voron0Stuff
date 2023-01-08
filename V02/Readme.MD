@@ -6,5 +6,5 @@ https://github.com/VoronDesign/Voron-0/tree/Voron0.2/Drawings
 
 There are two versions:
 
-100mm (91mm sides) - this is for tophats with 100mm extrusions.
-80mm (71mm sides) - this is for tophats with 80mm extrusions.
+* 100mm (91mm sides) - this is for tophats with 100mm extrusions.
+* 80mm (71mm sides) - this is for tophats with 80mm extrusions.
