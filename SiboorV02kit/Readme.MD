@@ -1,4 +1,4 @@
-This repository is for all the Siboor v2 kit things so I can keep track of it.
+This repository is for all the Siboor v2 kit items that I am either changing/remixing, or noting. The goal of this is to help other Siboor V02 builders.
 
 Modified Parts for Siboor Extrusions (MakerBeam XL)
 
