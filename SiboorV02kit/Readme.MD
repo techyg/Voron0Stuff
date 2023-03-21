@@ -9,7 +9,11 @@ Modified Parts for Siboor Extrusions (MakerBeam XL). The V02 kit does include PC
 Remixed from Voron 0.2 STL repository.
 https://github.com/VoronDesign/Voron-0/tree/Voron0.2/STLs
 
-Note: THIS IS A VERY TIGHT FIT AND MAY NOT WORK IN SOME CASES. The hex nuts included with the Siboor kit are approximately 2mm-2.3mm thick. The channel that the nuts can fit in is only 2.5mm tall as opposed to other extrusion designs (Mitsumi, LDO, Maker Beam XL which have more room). Unforunately, that leaves very little room for plastic No Drop nuts. This isn't a problem unless you want to use No Drop nuts, which make the build MUCH easier and less frustrating, especially for first time builders. Without using no drop nuts, you will have to constantly keep track of where your hexnuts are and most likely they will fall out frequently (particularly when doing the Z axis). If you want to have a good building experience, it is highly recommended to use the no drop nuts. Using no drop nuts also helps for the panels, otherwise you will have to reposition your printer every time you want to put the panels back on.
+Note: THE HEX NO NUT DROP IS A VERY TIGHT FIT AND MAY NOT WORK IN SOME CASES (see below for alternative Square Nut mod). 
+
+The hex nuts included with the Siboor kit are approximately 2mm-2.3mm thick. The channel that the nuts can fit in is only 2.5mm tall as opposed to other extrusion designs (Mitsumi, LDO, Maker Beam XL which have more room). Unforunately, that leaves very little room for plastic No Drop nuts. 
+
+This isn't a problem unless you want to use No Drop nuts, which make the build MUCH easier and less frustrating, especially for first time builders. Without using no drop nuts, you will have to constantly keep track of where your hexnuts are and most likely they will fall out frequently (particularly when doing the Z axis). If you want to have a good building experience, it is highly recommended to use the no drop nuts. Using no drop nuts also helps for the panels, otherwise you will have to reposition your printer every time you want to put the panels back on.
 
 My remix below only has a .2mm thickness where the nut sits, which means they are really easy to break. I ran into issues and in some cases I had hex nuts that were too thick and these wouldn't work. 
 
