@@ -1,12 +1,14 @@
 This repository is for all the Siboor v2 kit items that I am either changing/remixing, or noting. The goal of this is to help other Siboor V02 builders.
 
+**Instructions for all parts: print with .1 layer for first layer to improve stiffness. The layer height is only .2 for the bottom, otherwise the nuts won't fit.
+**
+
 Modified Parts for Siboor Extrusions (MakerBeam XL). The V02 kit does include PCB inserts that you can use. If you'd rather use a plastic part, use the remix below. 
 
 * Siboor-M2_Nut_Adapter_Rotated_x5 - remixed nut carriers that will fit the Siboor MakerBeam XL extrusions. (height reduced and width slightly reduced). 
 Remixed from Voron 0.2 STL repository.
 https://github.com/VoronDesign/Voron-0/tree/Voron0.2/STLs
 
-Instructions: print with .1 layer for first layer to improve stiffness. The layer height is only .2 for the bottom, otherwise the nuts won't fit.
 
 Note: THIS IS A VERY TIGHT FIT. The hex nuts included with the SIBOOR kit are approximately 2mm-2.2mm thick. Unforunately, that leaves very little room for plastic No Drop nuts. My remix below only has a .2mm thickness where the nut sits, which means they are really easy to break. I ran into issues and in some cases I had hex nuts that were too thick and these wouldn't work. 
 
