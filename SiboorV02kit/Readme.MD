@@ -1,6 +1,6 @@
 This repository is for all the Siboor v2 kit items that I am either changing/remixing, or noting. The goal of this is to help other Siboor V02 builders.
 
-Modified Parts for Siboor Extrusions (MakerBeam XL)
+Modified Parts for Siboor Extrusions (MakerBeam XL). The V02 kit does include PCB inserts that you can use. If you'd rather use a plastic part, use the remix below. 
 
 * Siboor-M2_Nut_Adapter_Rotated_x5 - remixed nut carriers that will fit the Siboor MakerBeam XL extrusions. (height reduced and width slightly reduced). 
 Remixed from Voron 0.2 STL repository.
