@@ -1,6 +1,11 @@
 Kit Updates: June 2023-
 
-Siboor now includes led nut bar adapters in their latest kits. Please double check that all screws operate before inserting (just to be on the safe side). Use my 3d printed nut adapters and m2 hex nuts if you prefer to use printed parts similar to stock.
+Siboor now includes led nut bar adapters in their latest kits. Please double check that all screws operate before inserting (just to be on the safe side). Use my 3d printed nut adapters and m2 hex nuts if you prefer to use printed parts similar to stock. 
+
+Learn more about the latest Changes Update to V02 kit: https://www.youtube.com/watch?v=YN2l0KVBhCg
+
+Original Siboor V02 Kit Review:
+https://www.youtube.com/watch?v=cOtdasw3uVo&t=0s
 
 PLEASE READ BELOW FOR SIBOOR VORON 0.2 KIT NOTES. 
 
